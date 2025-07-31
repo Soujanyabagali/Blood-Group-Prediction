@@ -1,0 +1,16 @@
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore model files
+*.pkl
+
+# Ignore database files
+*.db
+
+# Ignore other common files
+.DS_Store
+.env
