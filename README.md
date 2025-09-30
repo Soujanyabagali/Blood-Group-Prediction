@@ -45,4 +45,4 @@ Contributions are welcome. Please fork the repository and create a pull request 
 Specify your license here.
 
 ## Contact
-For any queries or support, contact [Your Name] at [Your Email].
+For any queries or support, contact Soujanya Bagali at soujanyabagali789@gmail.com.
